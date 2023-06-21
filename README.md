@@ -33,7 +33,7 @@ I am currently following BSc Hons Computer Science at [Univeristy of Nottingham 
 
 ## ⚡️ My GitHub Stats
 
-[<img align="left" height="160" alt="GitHub stats card" src="https://github-readme-stats-zzhangyh.vercel.app/api?username=ZzhangYH&hide=stars&show_icons=true&theme=swift" />](https://github.com/ZzhangYH/github-readme-stats#gh-light-mode-only)
-[<img align="left" height="160" alt="GitHub stats card" src="https://github-readme-stats-zzhangyh.vercel.app/api?username=ZzhangYH&hide=stars&show_icons=true&theme=one_dark_pro" />](https://github.com/ZzhangYH/github-readme-stats#gh-dark-mode-only)
-[<img align="left" height="160" alt="Top lang card" src="https://github-readme-stats-zzhangyh.vercel.app/api/top-langs/?username=ZzhangYH&layout=compact&theme=swift" />](https://github.com/ZzhangYH/github-readme-stats#gh-light-mode-only)
-[<img align="left" height="160" alt="Top lang card" src="https://github-readme-stats-zzhangyh.vercel.app/api/top-langs/?username=ZzhangYH&layout=compact&theme=one_dark_pro" />](https://github.com/ZzhangYH/github-readme-stats#gh-dark-mode-only)
+[<img align="left" height="170" alt="GitHub stats card" src="https://github-readme-stats-zzhangyh.vercel.app/api?username=ZzhangYH&hide=stars&show_icons=true&theme=swift" />](https://github.com/ZzhangYH/github-readme-stats#gh-light-mode-only)
+[<img align="left" height="170" alt="GitHub stats card" src="https://github-readme-stats-zzhangyh.vercel.app/api?username=ZzhangYH&hide=stars&show_icons=true&theme=one_dark_pro" />](https://github.com/ZzhangYH/github-readme-stats#gh-dark-mode-only)
+[<img align="left" height="170" alt="Top lang card" src="https://github-readme-stats-zzhangyh.vercel.app/api/top-langs/?username=ZzhangYH&layout=compact&theme=swift" />](https://github.com/ZzhangYH/github-readme-stats#gh-light-mode-only)
+[<img align="left" height="170" alt="Top lang card" src="https://github-readme-stats-zzhangyh.vercel.app/api/top-langs/?username=ZzhangYH&layout=compact&theme=one_dark_pro" />](https://github.com/ZzhangYH/github-readme-stats#gh-dark-mode-only)
